@@ -1,0 +1,6 @@
+Hello, this is the original content.
+<<<<<<< HEAD
+Change from Branch1.
+=======
+Change from Branch2.
+>>>>>>> Branch2
